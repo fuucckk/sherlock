@@ -9,6 +9,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -18,7 +19,7 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
-opennet
 svidbook
 threads
