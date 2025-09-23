@@ -1,6 +1,5 @@
 APClips
 Coders Rank
-GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -9,17 +8,16 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
+opennet
 svidbook
 threads
+xHamster
