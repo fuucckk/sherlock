@@ -1,23 +1,28 @@
 APClips
+Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
 SlideShare
+SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
-xHamster
