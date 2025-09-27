@@ -1,13 +1,10 @@
 APClips
-Carbonmade
 Coders Rank
-Dribbble
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
 LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -18,11 +15,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+Strava
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
