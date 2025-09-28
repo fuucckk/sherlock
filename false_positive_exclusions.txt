@@ -1,5 +1,7 @@
 APClips
-Coders Rank
+Academia.edu
+Audiojungle
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,7 +17,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Strava
+Topcoder
 Weblate
 YandexMusic
 kaskus
