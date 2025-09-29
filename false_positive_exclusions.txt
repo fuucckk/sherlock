@@ -1,10 +1,10 @@
 APClips
-Academia.edu
-Audiojungle
+Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
 LessWrong
 LushStories
