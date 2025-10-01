@@ -1,9 +1,7 @@
 APClips
-Coders Rank
-CyberDefenders
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -14,12 +12,16 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 SlideShare
 Splice
 Spotify
 Topcoder
+Venmo
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
