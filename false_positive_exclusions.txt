@@ -1,10 +1,10 @@
 APClips
-Eintracht Frankfurt Forum
-GNOME VCS
+BoardGameGeek
+Coders Rank
+CyberDefenders
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,16 +12,13 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
 Topcoder
-Venmo
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
