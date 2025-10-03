@@ -2,11 +2,13 @@ APClips
 BoardGameGeek
 Coders Rank
 CyberDefenders
+DeviantArt
+GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LushStories
-Mydramalist
+Itch.io
+LessWrong
 PepperIT
 PocketStars
 Reddit
