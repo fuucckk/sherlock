@@ -1,12 +1,8 @@
 APClips
-Audiojungle
-BreachSta.rs Forum
-DeviantArt
-Eintracht Frankfurt Forum
+Coders Rank
+Cults3D
 GNOME VCS
 Giphy
-Gumroad
-Heavy-R
 LushStories
 PocketStars
 Reddit
@@ -17,4 +13,5 @@ Topcoder
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
