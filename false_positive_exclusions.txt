@@ -1,10 +1,9 @@
 APClips
 BreachSta.rs Forum
-Coders Rank
+CGTrader
 DeviantArt
 GNOME VCS
 Giphy
-Itch.io
 LushStories
 PocketStars
 Reddit
@@ -13,5 +12,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
 xHamster
