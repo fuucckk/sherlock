@@ -1,6 +1,4 @@
 APClips
-BreachSta.rs Forum
-CGTrader
 DeviantArt
 GNOME VCS
 Giphy
