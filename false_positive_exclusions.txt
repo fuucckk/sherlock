@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+BreachSta.rs Forum
 GNOME VCS
 Giphy
 LushStories
@@ -12,4 +12,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
