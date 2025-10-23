@@ -1,5 +1,5 @@
 APClips
-BreachSta.rs Forum
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
@@ -8,6 +8,7 @@ Reddit
 RocketTube
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 opennet
