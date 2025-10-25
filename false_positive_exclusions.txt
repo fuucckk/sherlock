@@ -1,5 +1,4 @@
 APClips
-BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -8,11 +7,9 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
