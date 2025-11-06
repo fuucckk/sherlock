@@ -1,17 +1,17 @@
 APClips
-Blogger
 Coders Rank
 GNOME VCS
 Giphy
-GitHub
-Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
