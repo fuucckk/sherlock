@@ -1,13 +1,11 @@
 APClips
 Archive.org
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 Harvard Scholar
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -19,4 +17,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
