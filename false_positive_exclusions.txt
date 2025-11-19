@@ -1,11 +1,10 @@
 APClips
 Archive.org
-BoardGameGeek
-Coders Rank
-GNOME VCS
+Freelancer
 Giphy
-Itch.io
+LiveJournal
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
