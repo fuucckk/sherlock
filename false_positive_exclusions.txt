@@ -1,15 +1,18 @@
 APClips
 Archive.org
-Freelancer
+CGTrader
+DeviantArt
+GNOME VCS
 Giphy
 LiveJournal
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
+Snapchat
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 phpRU
