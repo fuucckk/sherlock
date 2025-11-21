@@ -1,15 +1,13 @@
 APClips
 Archive.org
-CGTrader
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-LiveJournal
 LushStories
 PocketStars
 Reddit
 RocketTube
-Snapchat
 Splice
 Spotify
 Trovo
@@ -17,3 +15,4 @@ Weblate
 YandexMusic
 phpRU
 svidbook
+xHamster
