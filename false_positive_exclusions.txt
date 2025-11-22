@@ -1,5 +1,7 @@
 APClips
+Archive of Our Own
 Archive.org
+Carbonmade
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -13,6 +15,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
 xHamster
