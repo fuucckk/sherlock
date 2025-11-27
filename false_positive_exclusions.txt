@@ -8,12 +8,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
