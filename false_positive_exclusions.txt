@@ -1,7 +1,10 @@
 APClips
+Academia.edu
 Archive.org
 Code Snippet Wiki
+Coders Rank
 DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -17,4 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
