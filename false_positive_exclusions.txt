@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
 DeviantArt
 Fandom
 GNOME VCS
@@ -21,4 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
