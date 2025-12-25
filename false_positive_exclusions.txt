@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -22,3 +23,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
