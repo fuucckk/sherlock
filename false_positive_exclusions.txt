@@ -17,7 +17,6 @@ Splice
 Spotify
 Trovo
 Weblate
-opennet
+YandexMusic
 phpRU
 svidbook
-xHamster
