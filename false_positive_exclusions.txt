@@ -1,8 +1,8 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -18,7 +18,7 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
 xHamster
