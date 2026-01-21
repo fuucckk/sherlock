@@ -1,5 +1,4 @@
 APClips
-Academia.edu
 Archive.org
 Code Snippet Wiki
 DeviantArt
@@ -25,4 +24,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
