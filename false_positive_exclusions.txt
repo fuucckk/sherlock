@@ -1,16 +1,17 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -26,5 +27,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
