@@ -10,7 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+LiveJournal
 LushStories
 Patched
 Pornhub
@@ -34,5 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
