@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,10 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
-Minecraft
+Outgress
 Patched
 Pornhub
 Rarible
@@ -25,6 +24,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -40,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
