@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -10,12 +9,9 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
-LessWrong
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,14 +27,13 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
