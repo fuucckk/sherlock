@@ -7,16 +7,13 @@ Archive.org
 Bandcamp
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -29,11 +26,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
