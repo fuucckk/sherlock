@@ -13,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 Patched
 Rarible
@@ -36,6 +35,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
