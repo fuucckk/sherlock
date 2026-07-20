@@ -3,9 +3,9 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 BreachSta.rs Forum
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -15,7 +15,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -43,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
