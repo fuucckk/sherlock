@@ -15,9 +15,8 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Pastebin
 Patched
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
