@@ -16,7 +16,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -33,7 +35,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
