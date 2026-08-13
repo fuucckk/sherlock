@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -33,9 +34,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Typeracer
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
