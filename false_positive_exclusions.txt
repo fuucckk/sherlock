@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,11 +13,11 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -46,8 +45,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
