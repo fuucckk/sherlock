@@ -13,14 +13,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -33,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
