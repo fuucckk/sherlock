@@ -13,10 +13,13 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -31,10 +34,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
