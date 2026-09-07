@@ -32,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
