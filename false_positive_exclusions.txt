@@ -13,12 +13,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
 Minecraft
 ObservableHQ
 Odysee
