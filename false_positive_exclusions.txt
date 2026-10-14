@@ -8,6 +8,7 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -34,11 +35,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
-WebNode
 Weblate
 YandexMusic
 authorSTREAM
