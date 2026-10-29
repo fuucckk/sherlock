@@ -42,8 +42,10 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
