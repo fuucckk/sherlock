@@ -20,8 +20,8 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -31,7 +31,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
