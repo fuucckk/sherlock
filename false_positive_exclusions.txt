@@ -2,6 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -27,7 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TnAFlix
 TryHackMe
 Velomania
 Vero
