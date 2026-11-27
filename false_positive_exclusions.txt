@@ -1,23 +1,22 @@
+APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -29,8 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -46,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
