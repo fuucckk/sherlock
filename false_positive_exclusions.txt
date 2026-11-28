@@ -18,6 +18,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -28,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
